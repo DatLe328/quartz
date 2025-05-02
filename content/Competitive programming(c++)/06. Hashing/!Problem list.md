@@ -1,0 +1,5 @@
+|                            Problem link                             |       Problem tag       |                 Necessary knowledge                  | Difficulty | Status |                       Solution                       |
+| :-----------------------------------------------------------------: | :---------------------: | :--------------------------------------------------: | :--------: | :----: | :--------------------------------------------------: |
+| [olp_ct23_attindex](https://oj.vnoi.info/problem/olp_ct23_attindex) | Data Structures, String | [[Mo's Algorithm]], [[Compress number]], [[Hashing]] |    Hard    |   AC   | [[02. Data Structures/SQRT/Sources/Attindex\|Solve]] |
+|                                                                     |                         |                                                      |            |        |                                                      |
+|                                                                     |                         |                                                      |            |        |                                                      |

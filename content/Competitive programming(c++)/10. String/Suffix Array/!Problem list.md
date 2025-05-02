@@ -1,0 +1,7 @@
+|                                                 Problem link                                                 |       Problem tag       | Necessary knowledge | Difficulty | Status |              Solution               |
+| :----------------------------------------------------------------------------------------------------------: | :---------------------: | :-----------------: | :--------: | :----: | :---------------------------------: |
+| [Longest Common Substring](https://codeforces.com/edu/course/2/lesson/2/5/practice/contest/269656/problem/B) | Data structures, string |  [[Suffix Array]]   |    Hard    |   AC   | [[Longest Common Substring\|Solve]] |
+|    [Sorting Substrings](https://codeforces.com/edu/course/2/lesson/2/5/practice/contest/269656/problem/C)    | Data structures, string |  [[Suffix Array]]   |    Hard    |   AC   |    [[Sorting Substrings\|Solve]]    |
+|         [Borders](https://codeforces.com/edu/course/2/lesson/2/5/practice/contest/269656/problem/D)          | Data structures, string |  [[Suffix Array]]   |    Hard    |   AC   |         [[Borders\|Solve]]          |
+|                       [Substring Distribution](https://cses.fi/problemset/task/2110/)                        |                         |                     |            |        |  [[Substring Distribution\|Solve]]  |
+|                               [SUBLEX](https://www.spoj.com/problems/SUBLEX/)                                |                         |                     |            |        |                                     |

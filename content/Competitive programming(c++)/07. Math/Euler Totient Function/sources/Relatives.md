@@ -1,0 +1,39 @@
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+
+#ifdef LOCAL
+#include "debug.h"
+#else
+#define debug(...) 42
+#endif
+
+int phi(int n) {
+    if (n == 1) return 0;
+    int result = n;
+    for (int i = 2; i * i <= n; i++) {
+        if (n % i == 0) {
+            while (n % i == 0)
+                n /= i;
+            result -= result / i;
+        }
+    }
+    if (n > 1)
+        result -= result / n;
+    return result;
+}
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
+
+    int n; 
+    while (true) {
+        cin >> n;
+        if (n == 0) break;
+        cout << phi(n) << '\n';
+    }
+
+    return 0;
+}
+```

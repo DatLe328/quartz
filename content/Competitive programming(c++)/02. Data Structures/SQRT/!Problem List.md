@@ -1,0 +1,8 @@
+|                              Problem link                              |  Problem tag   |                      Necessary knowledge                       | Difficulty | Status |              Solution              |
+| :--------------------------------------------------------------------: | :------------: | :------------------------------------------------------------: | :--------: | :----: | :--------------------------------: |
+| [H. Robin Hood Archery](https://codeforces.com/contest/2014/problem/H) | #dsa, #hashing |                [[Mo's Algorithm]], [[Xor hash]]                |   Medium   |   AC   |  [[H. Robin Hood Archery\|Solve]]  |
+| [F. Machine Learning](https://codeforces.com/problemset/problem/940/F) |      #dsa      |                   [[Mo's alogorithm online]]                   |    Hard    |        | [[Mo's alogorithm online\|Solve]]  |
+|        [Distinct Colors](https://cses.fi/problemset/task/1139/)        |  #tree, #dsa   | [[Euler Tour Technique]]. [[Fenwick Tree]], [[Mo's Algorithm]] |   Medium   |   AC   |     [[Distinct Colors\|Solve]]     |
+|    [Distinct Values Queries](https://cses.fi/problemset/task/1734/)    |      #dsa      |              [[Mo's Algorithm]], [[Fenwick Tree]]              |   Medium   |   AC   | [[Distinct Values Queries\|Solve]] |
+|  [olp_ct23_attindex](https://oj.vnoi.info/problem/olp_ct23_attindex)   | #dsa, #string  |      [[Mo's Algorithm]], [[Compress number]], [[Hashing]]      |    Hard    |   AC   |      [[CT23_ATTINDEX\|Solve]]      |
+|                                                                        |                |                                                                |            |        |                                    |

@@ -1,0 +1,3 @@
+- Là **địa chỉ IP của router** trong mạng nội bộ.
+- Khi thiết bị của bạn (PC, điện thoại...) muốn **gửi dữ liệu ra ngoài mạng** (tức là đến IP không nằm trong cùng subnet), nó **sẽ gửi đến default gateway trước**.
+- Gateway sau đó định tuyến gói tin đi tiếp, thường là ra Internet.

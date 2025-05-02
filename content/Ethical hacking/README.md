@@ -1,0 +1,5 @@
+- [[]]
+- [Pentesting tools](https://www.youtube.com/watch?v=dDbvA0AdQAA&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl&index=5)
+- [Proxychains](https://www.youtube.com/watch?v=jqrd9Ba3VOc&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl&index=9)
+- [Lazy script](https://github.com/arismelachroinos/lscript)
+- [Netcat](https://www.youtube.com/watch?v=KlzSBk7VMss&list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl&index=17)

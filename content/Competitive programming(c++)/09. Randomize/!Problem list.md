@@ -1,0 +1,5 @@
+|                                 Problem link                                 |   Problem tag   |                 Necessary knowledge                 | Difficulty | Status |                Solution                 |
+| :--------------------------------------------------------------------------: | :-------------: | :-------------------------------------------------: | :--------: | :----: | :-------------------------------------: |
+| [Mahmoud and Ehab and the xor](https://codeforces.com/contest/862/problem/C) |    Randomize    | [[Randomize]], [[Wavelet Tree]], [[Mo's Algorithm]] |    Hard    |   AC   | [[Mahmoud and Ehab and the xor\|Solve]] |
+|           [Destiny](https://codeforces.com/contest/840/problem/D)            | Data structures |  [[SegmentTree]], [[Wavelet Tree]], [[Randomize]]   |    Hard    |   AC   |           [[Destiny\|Solve]]            |
+|             [Ghd](https://codeforces.com/contest/364/problem/D)              |                 |                    [[Randomize]]                    |    Hard    |   AC   |             [[Ghd\|Solve]]              |

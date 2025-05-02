@@ -1,0 +1,6 @@
+|                          Problem link                           |               Problem tag               |           Necessary knowledge           | Difficulty | Status |         Solution         |
+| :-------------------------------------------------------------: | :-------------------------------------: | :-------------------------------------: | :--------: | :----: | :----------------------: |
+|      [CT23_GCD](https://oj.vnoi.info/problem/olp_ct23_gcd)      |                  #math                  |                                         |    Hard    |   AC   |   [[CT23_GCD\|Solve]]    |
+|  [CT23_RUNROAD](https://oj.vnoi.info/problem/olp_ct23_runroad)  | #shortest-paths, #graphs, #constructive |                                         |    Hard    |   AC   | [[CT23_RUNROAD\|Solve]]  |
+| [CT23_ATTINDEX](https://oj.vnoi.info/problem/olp_ct23_attindex) |             #dsa, #hashing              | [[Mo's Algorithm]], [[Compress number]] |    Hard    |   AC   | [[CT23_ATTINDEX\|Solve]] |
+|   [OLP23_CANDY](https://oj.vnoi.info/problem/olp_ct23_candy)    |                  #dsa                   |             [[SegmentTree]]             |   Medium   |   AC   |           [[]]           |

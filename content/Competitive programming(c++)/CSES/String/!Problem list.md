@@ -1,0 +1,5 @@
+|                        Problem link                        |    Problem tag     |                             Necessary knowledge                             | Difficulty | Status |           Solution           |
+| :--------------------------------------------------------: | :----------------: | :-------------------------------------------------------------------------: | :--------: | :----: | :--------------------------: |
+|  [String Matching](https://cses.fi/problemset/task/1753/)  |      #string       | [[KMP (Knuth-Morris-Pratt)]], [[Z Function]], [[Suffix Array]], [[Hashing]] |    Easy    |   AC   |  [[String Matching\|Solve]]  |
+| [Word Combinations](https://cses.fi/problemset/task/1731/) | #dsa, #string, #dp |                                  [[Trie]]                                   |   Medium   |   AC   | [[Word Combinations\|Solve]] |
+|  [Finding Borders](https://cses.fi/problemset/task/1732/)  |      #string       | [[KMP (Knuth-Morris-Pratt)]], [[Z Function]], [[Suffix Array]], [[Hashing]] |    Easy    |   AC   |             [[]]             |

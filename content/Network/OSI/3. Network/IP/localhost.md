@@ -1,0 +1,2 @@
+- **localhost** là **tên** được ánh xạ (map) đến địa chỉ IP loopback của máy.
+- Khi bạn truy cập `http://localhost`, máy tính của bạn hiểu là đang truy cập vào **chính nó**, thông qua IP `127.0.0.1`.

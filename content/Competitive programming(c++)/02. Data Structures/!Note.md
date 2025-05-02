@@ -1,0 +1,1 @@
+- Các bài liên quan đến range update query sum thì nên dùng fenwicktree
